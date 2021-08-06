@@ -27,6 +27,7 @@ function Header() {
         width={200}
         height={100}
         alt="Hulu"
+        loading="lazy"
       />
     </header>
   );
